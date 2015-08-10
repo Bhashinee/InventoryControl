@@ -6,6 +6,7 @@
 
 package ruwaninventorycontrollsystem;
 
+
 import java.io.IOException;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
@@ -47,6 +48,7 @@ public class RuwanInventoryControllSystem extends Application {
 
     
     public static void main(String[] args) {
+        
         launch(args);
     }
     
